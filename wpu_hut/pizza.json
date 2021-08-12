@@ -71,6 +71,20 @@
             "gambar": "oriental-chicken.jpg"
         },
         {
+            "kategori": "nasi",
+            "nama": "Oriental Chicken",
+            "deskripsi": "Daging ayam berpadu dengan saus oriental.",
+            "harga": 40000,
+            "gambar": "oriental-chicken.jpg"
+        },
+        {
+            "kategori": "nasi",
+            "nama": "Oriental Chicken",
+            "deskripsi": "Daging ayam berpadu dengan saus oriental.",
+            "harga": 40000,
+            "gambar": "oriental-chicken.jpg"
+        },
+        {
             "kategori": "minuman",
             "nama": "Choco Mint",
             "deskripsi": "",
@@ -97,6 +111,13 @@
             "deskripsi": "",
             "harga": 24000,
             "gambar": "strawberry-milkshake.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Chocolate Milkshake",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "chocolate-milkshake.jpg"
         },
         {
             "kategori": "minuman",
